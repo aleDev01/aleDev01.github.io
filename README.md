@@ -1,7 +1,5 @@
-- **IT**
-- Ora ci sono le cartelle Aggiunte hai file che volete vedere gli esempi che ho fatto di html + css 
+- **IT**: Aggiunte cartelle contenenti esempi che ho fatto con HTML e CSS.
 
-- **EN**
-- Now there are the Added folders you have files you want to see the examples I made of html + css
+- **EN**: Added example of folder about HTML/CSS examples.
 
-> License v3.0
+> License v3.0 (Unkown license)
